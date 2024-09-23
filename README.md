@@ -21,5 +21,4 @@ A simple web application built with Express.js that allows users to create, view
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone [repository-link]
+   git clone(https://github.com/mohibkhan2001/File-Management-System/tree/master)
